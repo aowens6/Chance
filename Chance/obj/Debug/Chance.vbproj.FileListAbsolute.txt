@@ -12,3 +12,20 @@ C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.vbprojResolveAssemblyRefe
 C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.AddName.resources
 C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Players.mdf
 C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Players_log.ldf
+<<<<<<< HEAD
+=======
+E:\Chance\Chance\bin\Debug\Chance.exe.config
+E:\Chance\Chance\obj\Debug\Chance.exe
+E:\Chance\Chance\obj\Debug\Chance.xml
+E:\Chance\Chance\obj\Debug\Chance.pdb
+E:\Chance\Chance\bin\Debug\Players.mdf
+E:\Chance\Chance\bin\Debug\Players_log.ldf
+E:\Chance\Chance\bin\Debug\Chance.exe
+E:\Chance\Chance\bin\Debug\Chance.pdb
+E:\Chance\Chance\bin\Debug\Chance.xml
+E:\Chance\Chance\obj\Debug\Chance.vbprojResolveAssemblyReference.cache
+E:\Chance\Chance\obj\Debug\Chance.AddName.resources
+E:\Chance\Chance\obj\Debug\Chance.MainFrm.resources
+E:\Chance\Chance\obj\Debug\Chance.Resources.resources
+E:\Chance\Chance\obj\Debug\Chance.vbproj.GenerateResource.Cache
+>>>>>>> 116dd3cd49da9f769c21a7c1377cbadcd997ce99

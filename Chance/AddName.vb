@@ -14,7 +14,11 @@ Public Class AddName
 
             player.nameScore = player.playerName & "         " & player.playerScore.ToString
 
+<<<<<<< HEAD
             Dim connectionString As String = "Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\Austyn\Desktop\Chance\Chance\Players.mdf"
+=======
+            Dim connectionString As String = "Data Source=(LocalDB)\v11.0;AttachDbFilename=E:\Chance\Chance\Players.mdf"
+>>>>>>> 116dd3cd49da9f769c21a7c1377cbadcd997ce99
             Dim dbConnection As New SqlConnection(connectionString)
             dbConnection.Open()
 

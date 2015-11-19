@@ -107,7 +107,11 @@ Public Class MainFrm
 
         lstPlayers.DataSource = playersList
 
+<<<<<<< HEAD
         lstPlayers.DisplayMember = "playerScore"
+=======
+        lstPlayers.DisplayMember = "nameScore"
+>>>>>>> 116dd3cd49da9f769c21a7c1377cbadcd997ce99
 
         
     End Sub
@@ -455,6 +459,7 @@ Public Class MainFrm
     End Sub
 
     Public Sub populateCombos()
+<<<<<<< HEAD
         'lstCombos.Items.Add("Aces")
         'lstCombos.Items.Add("Twos")
         'lstCombos.Items.Add("Threes")
@@ -468,6 +473,21 @@ Public Class MainFrm
         'lstCombos.Items.Add("Large Straight")
         lstCombos.Items.Add("Scratch")
         'lstCombos.Items.Add("Chance!")
+=======
+        lstCombos.Items.Add("Aces")
+        lstCombos.Items.Add("Twos")
+        lstCombos.Items.Add("Threes")
+        lstCombos.Items.Add("Fours")
+        lstCombos.Items.Add("Fives")
+        lstCombos.Items.Add("Sixes")
+        lstCombos.Items.Add("Three of a Kind")
+        lstCombos.Items.Add("Four of a Kind")
+        lstCombos.Items.Add("Full House")
+        lstCombos.Items.Add("Small Straight")
+        lstCombos.Items.Add("Large Straight")
+        lstCombos.Items.Add("Scratch")
+        lstCombos.Items.Add("Chance!")
+>>>>>>> 116dd3cd49da9f769c21a7c1377cbadcd997ce99
     End Sub
     Private Sub openAddNameForm()
         If lstCombos.Items.Count = 0 Then
