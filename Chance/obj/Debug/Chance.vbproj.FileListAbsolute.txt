@@ -1,0 +1,14 @@
+C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Chance.exe.config
+C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Chance.exe
+C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Chance.pdb
+C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Chance.xml
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.MainFrm.resources
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.Resources.resources
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.vbproj.GenerateResource.Cache
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.exe
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.xml
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.pdb
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.vbprojResolveAssemblyReference.cache
+C:\Users\Austyn\Desktop\Chance\Chance\obj\Debug\Chance.AddName.resources
+C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Players.mdf
+C:\Users\Austyn\Desktop\Chance\Chance\bin\Debug\Players_log.ldf
